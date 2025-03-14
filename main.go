@@ -7,7 +7,7 @@ import (
 
 func main() {
 	for {
-		fmt.Println("Hello from the containerized Go application!")
-		time.Sleep(5 * time.Second)
+		fmt.Println("This is my new version of my Go application!")
+		time.Sleep(3 * time.Second)
 	}
 } 
